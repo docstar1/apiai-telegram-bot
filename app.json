@@ -6,16 +6,16 @@
   "keywords": ["api.ai", "telegram", "natural language"],
   "env": {
     "APP_NAME": {
-      "description": "Copy App Name here",
-      "value": ""
+      "description": "healthportal7",
+      "value": "healthportal7"
     },
     "TELEGRAM_TOKEN": {
       "description": "Telegram bot token",
-      "value": ""
+      "value": "354668541:AAHb1PC0_xiqDcQn3Pi5ujGWnmD92N4ME9s"
     },
     "APIAI_ACCESS_TOKEN": {
       "description": "Client access token for Api.ai",
-      "value": ""
+      "value": "d885dc34cb4a4e31b26f5b80726028a2"
     },
     "APIAI_LANG": {
       "description": "Agent language",
